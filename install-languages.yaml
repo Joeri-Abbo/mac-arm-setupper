@@ -242,5 +242,3 @@
       npm:
         name: typescript
         global: yes
-
-
